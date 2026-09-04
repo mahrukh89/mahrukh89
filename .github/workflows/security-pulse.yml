@@ -1,0 +1,21 @@
+name: Update Security Pulse
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 3 * * *"
+permissions:
+  contents: write
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SOC pulse
+        run: python scripts/generate_security_pulse.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/security-pulse.svg
+          git diff --cached --quiet || git commit -m "chore: refresh SOC pulse"
+          git push

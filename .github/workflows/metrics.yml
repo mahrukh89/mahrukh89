@@ -1,0 +1,23 @@
+name: Update Profile Metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 2 * * *"
+permissions:
+  contents: write
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_metrics.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics/
+          git diff --cached --quiet || git commit -m "chore(metrics): daily refresh"
+          git push
