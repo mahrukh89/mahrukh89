@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<rect width="1200" height="150" rx="12" fill="#0d1117" stroke="#1f6feb"/>
+<text x="28" y="32" fill="#58a6ff" font-family="monospace" font-size="15" font-weight="700">LIVE • CYBERSECURITY PROFILE STATUS</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700">
+<rect x="28" y="55" width="205" height="36" rx="5" fill="#183b2b"/><text x="130" y="78" text-anchor="middle" fill="#3fb950">STATUS • OPEN TO WORK</text>
+<rect x="245" y="55" width="205" height="36" rx="5" fill="#302044"/><text x="347" y="78" text-anchor="middle" fill="#c9a0ff">LEVEL • JUNIOR</text>
+<rect x="462" y="55" width="205" height="36" rx="5" fill="#12354a"/><text x="564" y="78" text-anchor="middle" fill="#58d6ff">REGION • PK • REMOTE</text>
+<rect x="679" y="55" width="205" height="36" rx="5" fill="#153b32"/><text x="781" y="78" text-anchor="middle" fill="#57e3b1">FOCUS • SOC / IR / VAPT</text>
+<rect x="896" y="55" width="276" height="36" rx="5" fill="#3a3015"/><text x="1034" y="78" text-anchor="middle" fill="#ffc83d">BUILDING • BLUE TEAM PORTFOLIO</text>
+</g>
+<text x="600" y="123" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">SIEM • THREAT INTELLIGENCE • DETECTION ENGINEERING • CLOUD SECURITY</text>
+</svg>
