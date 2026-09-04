@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<rect width="1200" height="170" rx="12" fill="#080d13" stroke="#1f6feb"/>
+<circle cx="28" cy="25" r="6" fill="#ff5f56"/><circle cx="48" cy="25" r="6" fill="#ffbd2e"/><circle cx="68" cy="25" r="6" fill="#27c93f"/>
+<text x="95" y="30" fill="#8b949e" font-family="monospace" font-size="13">mahrukh@blue-team:~$</text>
+<text x="30" y="65" fill="#58a6ff" font-family="monospace" font-size="14">$ whoami</text>
+<text x="30" y="88" fill="#c9d1d9" font-family="monospace" font-size="14">junior-cybersecurity-analyst</text>
+<text x="30" y="116" fill="#58a6ff" font-family="monospace" font-size="14">$ mission</text>
+<text x="30" y="139" fill="#c9d1d9" font-family="monospace" font-size="14">detect → investigate → document → improve</text>
+</svg>
