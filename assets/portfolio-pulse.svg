@@ -13,7 +13,7 @@
 
 <rect x="600" y="60" width="255" height="90" rx="9" fill="#111c29" stroke="#19395c"/>
 <text x="727" y="92" fill="#8b949e" font-size="13">FOLLOWERS</text>
-<text x="727" y="128" fill="#d2a8ff" font-size="32" font-weight="700">2</text>
+<text x="727" y="128" fill="#d2a8ff" font-size="32" font-weight="700">3</text>
 
 <rect x="885" y="60" width="285" height="90" rx="9" fill="#111c29" stroke="#19395c"/>
 <text x="1027" y="92" fill="#8b949e" font-size="13">TOTAL REPOSITORY FORKS</text>
