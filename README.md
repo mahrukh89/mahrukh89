@@ -509,16 +509,16 @@ ANALYST OUTPUT
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahrukh89&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="GitHub statistics" />
   <img src="https://streak-stats.demolab.com?user=mahrukh89&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrukh89&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Top repository languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahrukh89&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="95%" />
+  <img src="./profile-summary-card-output/github_dark/5-profile-details.svg" width="95%" alt="GitHub profile activity and contribution details" />
 </p>
 
 ---
@@ -650,7 +650,7 @@ Coursework: Network Security, Database Systems, Programming (Python, C++), IT Op
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahrukh89&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="95%" />
+  <img src="./profile-summary-card-output/github_dark/5-profile-details.svg" width="95%" alt="GitHub profile activity and contribution details" />
 </p>
 
 ---
