@@ -5,7 +5,7 @@
 <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
 <rect x="30" y="60" width="255" height="90" rx="9" fill="#111c29" stroke="#19395c"/>
 <text x="157" y="92" fill="#8b949e" font-size="13">PUBLIC REPOSITORIES</text>
-<text x="157" y="128" fill="#58a6ff" font-size="32" font-weight="700">10</text>
+<text x="157" y="128" fill="#58a6ff" font-size="32" font-weight="700">11</text>
 
 <rect x="315" y="60" width="255" height="90" rx="9" fill="#111c29" stroke="#19395c"/>
 <text x="442" y="92" fill="#8b949e" font-size="13">TOTAL REPOSITORY STARS</text>
